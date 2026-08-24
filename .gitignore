@@ -46,3 +46,11 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Python Backend Secrets & Cache
+.env
+__pycache__/
+*.py[cod]
+$venv/
+.venv/
+env/
